@@ -15,6 +15,7 @@ public class LoginDataDrivenTest extends Base{
 		logger.info("***Starting Registration Test***");
 		//homepage
 		HomePage hm = new HomePage(driver);
+		System.out.println("launch the site successfully");
 
 		//login page
 		logger.info("Clicked on My Account Link");
