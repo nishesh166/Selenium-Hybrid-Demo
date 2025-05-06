@@ -1,0 +1,43 @@
+2025-04-09 21:35:50.298 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-09 21:35:50.636 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-09 21:35:50.636 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-09 21:35:50.657 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-09 21:35:50.674 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-09 21:35:50.674 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-09 21:35:50.693 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-09 21:35:55.699 [main] INFO  codenbox.testBase.Base - ***validation is invalid result***
+2025-04-09 21:35:55.699 [main] INFO  codenbox.testBase.Base - ***validation is valid result***
+2025-04-09 21:35:55.699 [main] INFO  codenbox.testBase.Base - ***Test for DDT is completed***
+2025-04-09 21:35:55.701 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-09 21:35:55.702 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-09 21:35:55.732 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-09 21:35:56.086 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-09 21:35:56.086 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-09 21:35:56.117 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-09 21:35:56.134 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-09 21:35:56.134 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-09 21:35:56.152 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-09 21:35:57.270 [main] INFO  codenbox.testBase.Base - ***validation is invalid result***
+2025-04-09 21:35:57.271 [main] INFO  codenbox.testBase.Base - ***validation is valid result***
+2025-04-14 13:45:11.341 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 13:45:11.342 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 13:45:11.343 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 13:49:43.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 13:49:43.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 13:49:43.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 13:56:41.432 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 13:56:41.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 13:56:41.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 14:26:01.957 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 14:26:01.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 14:26:01.959 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 14:34:18.921 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 14:34:18.923 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 14:34:18.924 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 14:35:05.696 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 14:35:05.697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 14:35:05.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 14:37:38.903 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 14:37:38.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 14:37:38.909 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 14:46:18.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels

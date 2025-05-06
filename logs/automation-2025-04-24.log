@@ -1,0 +1,51 @@
+2025-04-22 13:53:58.834 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-22 13:53:58.838 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-22 13:53:58.861 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-22 13:53:59.803 [main] INFO  codenbox.testBase.Base - Login Test failed
+2025-04-22 13:53:59.803 [main] INFO  codenbox.testBase.Base - ***Completed Login Test***
+2025-04-22 14:12:24.011 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-22 14:12:24.019 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-22 14:12:24.049 [main] INFO  codenbox.testBase.Base - Clicked on Register Link
+2025-04-22 14:12:24.806 [main] INFO  codenbox.testBase.Base - Entered registration details
+2025-04-22 14:12:24.966 [main] INFO  codenbox.testBase.Base - Clicked on privacy policy
+2025-04-22 14:12:24.989 [main] INFO  codenbox.testBase.Base - Clicked on Continue button
+2025-04-22 14:12:25.021 [main] INFO  codenbox.testBase.Base - Validating expected VS actual message
+2025-04-22 14:12:26.068 [main] INFO  codenbox.testBase.Base - ***Completed Registration Test***
+2025-04-22 14:12:29.675 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-22 14:12:29.676 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-22 14:12:29.711 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-22 14:12:30.127 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-22 14:12:30.128 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-22 14:12:30.183 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-22 14:12:30.204 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-22 14:12:30.204 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-22 14:12:30.228 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-22 14:12:31.145 [main] INFO  codenbox.testBase.Base - Login Test failed
+2025-04-22 14:12:31.145 [main] INFO  codenbox.testBase.Base - ***Completed Login Test***
+2025-04-24 12:52:25.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-24 12:52:25.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-24 12:52:25.788 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-24 12:54:39.318 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-24 12:54:39.320 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-24 12:54:39.320 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-24 12:54:53.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-24 12:54:53.740 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-24 12:54:53.741 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-24 12:58:00.576 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-24 12:58:00.583 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-24 12:58:00.615 [main] INFO  codenbox.testBase.Base - Clicked on Register Link
+2025-04-24 12:58:01.305 [main] INFO  codenbox.testBase.Base - Entered registration details
+2025-04-24 12:58:01.807 [main] INFO  codenbox.testBase.Base - Clicked on privacy policy
+2025-04-24 12:58:01.836 [main] INFO  codenbox.testBase.Base - Clicked on Continue button
+2025-04-24 12:58:01.867 [main] INFO  codenbox.testBase.Base - Validating expected VS actual message
+2025-04-24 12:58:02.880 [main] INFO  codenbox.testBase.Base - ***Completed Registration Test***
+2025-04-24 12:58:06.492 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-24 12:58:06.493 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-24 12:58:06.524 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-24 12:58:06.945 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-24 12:58:06.946 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-24 12:58:07.009 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-24 12:58:07.047 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-24 12:58:07.047 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-24 12:58:07.071 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-24 12:58:08.079 [main] INFO  codenbox.testBase.Base - Login Test failed

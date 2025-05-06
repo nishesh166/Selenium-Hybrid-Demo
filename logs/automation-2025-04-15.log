@@ -1,0 +1,52 @@
+2025-04-14 14:46:18.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 14:46:18.249 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-14 15:58:49.177 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-14 15:58:49.179 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-14 15:58:49.179 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-15 17:21:42.081 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-04-15 17:21:42.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-04-15 17:21:42.083 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-04-15 17:21:46.960 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-15 17:21:46.965 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-15 17:21:46.992 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-15 17:21:47.474 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-15 17:21:47.475 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-15 17:21:47.534 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-15 17:21:47.556 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-15 17:21:47.556 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-15 17:21:47.580 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-15 17:21:52.603 [main] INFO  codenbox.testBase.Base - ***validation is invalid result***
+2025-04-15 17:21:52.605 [main] INFO  codenbox.testBase.Base - ***validation is valid result***
+2025-04-15 17:21:52.605 [main] INFO  codenbox.testBase.Base - ***Test for DDT is completed***
+2025-04-15 17:21:55.918 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-15 17:21:55.918 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-15 17:21:55.949 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-15 17:21:56.279 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-15 17:21:56.279 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-15 17:21:56.336 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-15 17:21:56.356 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-15 17:21:56.356 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-15 17:21:56.381 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-15 17:22:01.429 [main] INFO  codenbox.testBase.Base - ***validation is invalid result***
+2025-04-15 17:22:01.430 [main] INFO  codenbox.testBase.Base - ***validation is valid result***
+2025-04-15 17:22:01.430 [main] INFO  codenbox.testBase.Base - ***Test for DDT is completed***
+2025-04-15 17:22:05.142 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-15 17:22:05.143 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-15 17:22:05.174 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-15 17:22:05.601 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-15 17:22:05.602 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-15 17:22:05.658 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-15 17:22:05.678 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-15 17:22:05.678 [main] INFO  codenbox.testBase.Base - Clicked on Login
+2025-04-15 17:22:05.703 [main] INFO  codenbox.testBase.Base - Account Page Verification
+2025-04-15 17:22:10.735 [main] INFO  codenbox.testBase.Base - ***validation is invalid result***
+2025-04-15 17:22:10.735 [main] INFO  codenbox.testBase.Base - ***validation is valid result***
+2025-04-15 17:22:10.735 [main] INFO  codenbox.testBase.Base - ***Test for DDT is completed***
+2025-04-15 17:22:14.393 [main] INFO  codenbox.testBase.Base - ***Starting Registration Test***
+2025-04-15 17:22:14.393 [main] INFO  codenbox.testBase.Base - Clicked on My Account Link
+2025-04-15 17:22:14.424 [main] INFO  codenbox.testBase.Base - Clicked on Login page
+2025-04-15 17:22:14.813 [main] INFO  codenbox.testBase.Base - Enter the details to login
+2025-04-15 17:22:14.813 [main] INFO  codenbox.testBase.Base - Enter email to login
+2025-04-15 17:22:14.845 [main] INFO  codenbox.testBase.Base - Enter password to login
+2025-04-15 17:22:14.887 [main] INFO  codenbox.testBase.Base - Clicked login button
+2025-04-15 17:22:14.887 [main] INFO  codenbox.testBase.Base - Clicked on Login

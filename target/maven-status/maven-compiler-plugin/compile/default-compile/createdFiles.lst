@@ -1,0 +1,6 @@
+pageObjects/BaseComponents.class
+pageObjects/RegistrationPage.class
+pageObjects/LoginPage.class
+pageObjects/HomePage.class
+pageObjects/MyAccountPage.class
+example.class
