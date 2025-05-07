@@ -30,6 +30,8 @@ public class Base {
 	public Properties prop;
 	public FileInputStream fs;
 
+
+//will run before every test cases
 	@BeforeMethod (alwaysRun = true)
 	@Parameters({"Browser"})
 	public void setup(String browserName) throws IOException {
